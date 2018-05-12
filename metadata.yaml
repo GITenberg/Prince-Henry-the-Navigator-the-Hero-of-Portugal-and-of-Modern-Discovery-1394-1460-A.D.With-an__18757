@@ -1,0 +1,39 @@
+_repo: Prince-Henry-the-Navigator-the-Hero-of-Portugal-and-of-Modern-Discovery-1394-1460-A.D.With-an__18757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beazley, C. Raymond (Charles Raymond)
+    aliases:
+    - Beazley, Charles Raymond
+    - Beazley, C. R. (Charles Raymond)
+    - Beazley, Raymond, Sir
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '8233'
+    url: http://www.gutenberg.org/2009/agents/8233
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Raymond_Beazley
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2006-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry, Infante of Portugal, 1394-1460'
+- !lcsh 'Discoveries in geography'
+- !lcc 'G'
+- !lcsh 'Geography, Medieval'
+- !lcsh 'Explorers -- Portugal -- Biography'
+title: 'Prince Henry the Navigator, the Hero of Portugal and of Modern Discovery,
+  1394-1460 A.D.
+
+  With an Account of Geographical Progress Throughout the Middle Ages As the Preparation
+  for His Work.'
+url: http://www.gutenberg.org/ebooks/18757
